@@ -2,7 +2,6 @@
 
 # ============================================
 # WAF ModSecurity - Script d'installation
-# Auteur: LARABI Adam
 # ============================================
 
 RED='\033[0;31m'
